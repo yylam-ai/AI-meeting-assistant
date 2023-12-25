@@ -1,0 +1,5 @@
+epoch: 700
+params:
+  alpha: 0.14589803375031546
+  min_duration: 0.1
+segmentation_fscore: 0.8749258217401696
